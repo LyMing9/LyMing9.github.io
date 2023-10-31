@@ -89,8 +89,8 @@ author:
   location         : "Shenzhen·Guangdong"
   employer         : "Shenzhen University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  zhihu            : #"people/zhoulvbang"
   email            : "nlimmm889@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
@@ -100,7 +100,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhoulvbang"
+  github           : "LyMing9"
   google_plus      :
   keybase          :
   instagram        :
