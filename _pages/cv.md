@@ -13,7 +13,7 @@ Education
 ======
 * Traffic Engineering, Shenzhen University 2020-2024
   * GPA：4.07/4.5
-  * 专业排名：1.8%
+  * Rank：1.8% , 1/53
 
 Work experience
 ======
