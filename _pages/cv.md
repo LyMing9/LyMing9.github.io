@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* 公共事业管理, 湖南中医药大学 2019-2023
-  * GPA：3.69/5
-  * 专业排名：15%
+* Traffic Engineering, Shenzhen University 2020-2024
+  * GPA：4.07/4.5
+  * 专业排名：1.8%
 
 Work experience
 ======
-* 暂无
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Shandong Traffic Development Engineering Design Consulting Limited company
+  * Duties included: Road marking and traffic sign design
+  * Supervisor: 
 
   
 Skills
 ======
 * LaTeX
+* Docker
 * Python
    * Data Analysis
    * Web Crawler
@@ -34,7 +34,12 @@ Skills
 
 Personal honor
 ======
-* 湖南中医药大学校级一等奖学金，2019-2020
+* Liyuan Star Scholarship｜School-level（TOP 1%) , 2022.11
+* Study Star First-class scholarship | School-level , 2022.10
+* Star of Style third Class scholarship | School-level , 2022.10
+* Charity Star Third Class scholarship | School-level , 2022.10
+* Excellent League member｜School-level	, 2021&2022
+* Study Star Second-class scholarship | School-level , 2021.10
 
 Publications
 ======
@@ -56,4 +61,5 @@ Teaching
   
 Leadership and Service
 ======
-* 2021年湖南省大学生创新创业训练计划省级项目主持人
+* The vice minister of the Public Relations Department of the College
+
